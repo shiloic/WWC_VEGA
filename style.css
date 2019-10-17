@@ -7,7 +7,7 @@ div h1{
 }
 
 .class_1{
-color: rgb(89, 0, 255);
+color: rgb(21, 125, 223);
 }
 
 #id1{
@@ -52,7 +52,7 @@ color: rgb(43, 226, 125);
 .right{
     width: 50%;
     height: 100%;
-    background-color: rgb(99, 169, 201);
+    background-color: rgb(150, 189, 207);
     display: flex;
     justify-content: center;
     align-items: center;
